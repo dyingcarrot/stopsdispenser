@@ -1,0 +1,14 @@
+Put your discord token in token.txt (if you don't have one follow this tutorial: https://github.com/reactiflux/discord-irc/wiki/Creating-a-discord-bot-&-getting-a-token)
+
+Put your accounts in the textfiles.
+
+When starting the program it will ask you for a key, you can find it in my nulled thread.
+
+commands are:
+
+!spotify - generates a spotify account
+!netflix - generates a netflix account
+!hulu - generates a hulu account
+!stock - shows the stock for each account type
+!help - shows commands and info
+!clear - clears the screen of the bot, removes log and restarts logging
